@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JacobKissee!
+- 👋 Hi, I’m @JacobKissee! I'm trying out on a new branch.
 - 👀 I’m interested in creating in general. But as of now I'm studying front-end development.  
 - 🌱 I’m currently learning HTML and CSS JavaScript. In addition to using IDEs and GitHub. I enjoy learning new things and problem solving. I welcome all tips and criticisms!
 - 💞️ I’m looking to collaborate, as well as recieve feedback from others. 
